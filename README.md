@@ -1,4 +1,3 @@
-# CoronaSafe Engineering Fellowship Test Problem
 ## Getting started
 
 1. Install CPP: You should have build support for cpp on your system.
